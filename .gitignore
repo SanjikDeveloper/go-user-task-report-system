@@ -1,0 +1,16 @@
+# Go build
+bin/
+build/
+*.exe
+*.dll
+
+# IDE
+.idea/
+.vscode/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
